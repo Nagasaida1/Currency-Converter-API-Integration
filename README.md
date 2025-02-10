@@ -91,6 +91,9 @@ Request Body:
   "amount": 100
 }
 
+![image](https://github.com/user-attachments/assets/a800c627-2b0f-400a-92e3-8bc2b6ba77cb)
+
+
 Example Response:
 
 {
