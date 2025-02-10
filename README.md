@@ -1,10 +1,10 @@
-Currency Converter API Integration
+##Currency Converter API Integration
 
-Overview
+##Overview
 
 This is a Spring Boot application that integrates with a public API to provide real-time currency conversion functionality. The application fetches exchange rates and allows users to convert an amount from one currency to another.
 
-Features
+##Features
 
 Fetch real-time exchange rates from a public API.
 
@@ -14,7 +14,7 @@ Proper error handling for invalid inputs and external API failures.
 
 Unit tests using JUnit.
 
-Technologies Used
+##Technologies Used
 
 Java 17+
 
@@ -28,7 +28,7 @@ Maven (for dependency management)
 
 Open Exchange Rates API (or any public currency API)
 
-Prerequisites
+##Prerequisites
 
 Ensure you have the following installed:
 
@@ -38,7 +38,7 @@ Maven 3+
 
 An API Key from Exchange Rates API or Open Exchange Rates
 
-Setup & Installation
+##Setup & Installation
 
 Clone the repository
 
@@ -97,7 +97,7 @@ Example Response:
   "convertedAmount": 94.5
 }
 
-Running Tests
+##Running Tests
 
 To run unit tests:
 
@@ -109,11 +109,11 @@ Error Handling
 
 500 Internal Server Error: External API failure.
 
-License
+##License
 
 This project is open-source and available under the MIT License.
 
-Contact
+##Contact
 
-For questions, reach out via [your-email@example.com].
+For questions, reach out via nagasaidavelpula1704email@example.com.
 
