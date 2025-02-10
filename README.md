@@ -66,6 +66,9 @@ mvn spring-boot:run
 
 GET /api/rates?base=USD
 
+![image](https://github.com/user-attachments/assets/7907c62c-f79e-41b5-b8e8-e47bb9faf542)
+
+
 Example Response:
 
 {
