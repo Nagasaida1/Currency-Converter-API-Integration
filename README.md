@@ -113,7 +113,7 @@ Error Handling
 
 This project is open-source and available under the MIT License.
 
-##Contact
+## Contact
 
 For questions, reach out via nagasaidavelpula1704email@example.com.
 
